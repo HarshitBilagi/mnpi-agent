@@ -1,0 +1,5 @@
+langchain
+langchain-openai
+pypdf
+docx2txt
+python-dotenv
