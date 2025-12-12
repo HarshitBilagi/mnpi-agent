@@ -1,8 +1,5 @@
-*.env
-<<<<<<< HEAD
 sample_docs/
 __pycache__/
 *.pyc 
 *.docx
 *.pdf
->>>>>>> b3f535a9e96f65d76e89a79429980fb7149ab411
