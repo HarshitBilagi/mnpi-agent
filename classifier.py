@@ -8,7 +8,7 @@ from langchain_ollama import OllamaLLM
 llm = OllamaLLM(model="llama3.1", temperature=0.1, max_tokens=512)
 
 PROMPT_TEMPLATE = """
-You are an MNPI (Material Non‑Public Information) detection classifier.
+You are an MNPI (Material Non-Public Information) detection classifier.
 Read the following text CHUNK and decide whether it contains MNPI according to the strict definition below.
 
 DEFINITION (strict):
